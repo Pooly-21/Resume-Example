@@ -22,8 +22,8 @@ body{
 
 header {
   text-align: center;
-  background-color: coral;
-  color: #FCF7F8;
+  background-color: #343330;
+  color: black;
   justify-content: center;
 }
 
@@ -34,7 +34,7 @@ footer {
 
 #sidebar{
     width: 20%;
-    background-color: skyblue;
+    background-color: darkslategray;
     padding: 1rem;
     color: black;
 }
@@ -45,7 +45,8 @@ footer {
 }
 
 .icons{
-    width: 3rem;
+    width: 5rem;
     margin: 2rem;
-    height: auto;
+    height: 15%;
+    border-radius: 50%;
 }
